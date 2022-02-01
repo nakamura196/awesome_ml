@@ -120,5 +120,18 @@
 		"implementation": "https://ml.ldas.jp/ocr/v1/predict?url=",
 		"examples": [
 		]
+	},{
+		"name": "貼交資料の検出",
+		"id": "kunshujo",
+		"download_url": "https://drive.google.com/uc?id=1-ZIa4KsSjhup4Pep70uBvI4BjnSUbocX",
+		"author": "中村覚",
+		"author_url": "https://researchmap.jp/nakamura.satoru",
+		"dataset": "電子展示『捃拾帖』",
+		"source_url": "https://kunshujo.dl.itc.u-tokyo.ac.jp/",
+		"resolution": "416x416",
+		"license": "",
+		"implementation": "https://ml.ldas.jp/kunshujo/v1/predict?url=",
+		"examples": [
+		]
 	}
 ]
