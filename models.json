@@ -9,11 +9,17 @@
 		"source_url": "https://doi.org/10.20676/00000353",
 		"resolution": "1024x1024",
 		"license": "",
-		"implementation": "",
+		"implementation": "https://ml.ldas.jp/face/v1/predict?url=",
 		"examples": [
 			{
-				"label": "aaa",
-				"url": "https://researchmap.jp/nakamura.satoru"
+				"url": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/001_1/0001s.tif/full/full/0/default.jpg",
+				"thumbnail": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/001_1/0001s.tif/full/600,/0/default.jpg",
+				"attribution": "SAT"
+			},
+			{
+				"url": "https://kotenseki.nijl.ac.jp/api/iiif/100302677/v4/KANS/KANS-00281/KANS-00281-00002.tif/full/full/0/default.jpg",
+				"thumbnail": "https://kotenseki.nijl.ac.jp/api/iiif/100302677/v4/KANS/KANS-00281/KANS-00281-00002.tif/full/600,/0/default.jpg",
+				"attribution": "国文学研究資料館"
 			}
 		]
 	},
@@ -27,7 +33,7 @@
 		"source_url": "",
 		"resolution": "1024x1024",
 		"license": "",
-		"implementation": "",
+		"implementation": "https://ml.ldas.jp/ruler/v1/predict?url=",
 		"examples": [
 			{
 				"url": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/001_1/0001s.tif/full/full/0/default.jpg",
@@ -67,7 +73,18 @@
 		"source_url": "https://github.com/ndl-lab/layout-dataset",
 		"resolution": "416x416",
 		"license": "",
-		"implementation": "",
-		"examples": []
+		"implementation": "https://ml.ldas.jp/layout/v1/predict?url=",
+		"examples": [
+			{
+				"url": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/001_1/0001s.tif/full/full/0/default.jpg",
+				"thumbnail": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/001_1/0001s.tif/full/600,/0/default.jpg",
+				"attribution": "SAT"
+			},
+			{
+				"url": "https://kotenseki.nijl.ac.jp/api/iiif/100302677/v4/KANS/KANS-00281/KANS-00281-00002.tif/full/full/0/default.jpg",
+				"thumbnail": "https://kotenseki.nijl.ac.jp/api/iiif/100302677/v4/KANS/KANS-00281/KANS-00281-00002.tif/full/600,/0/default.jpg",
+				"attribution": "国文学研究資料館"
+			}
+		]
 	}
 ]
