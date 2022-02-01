@@ -107,5 +107,18 @@
 				"attribution": "東京大学史料編纂所"
 			}
 		]
+	},{
+		"name": "くずし字文字検出",
+		"id": "ocr",
+		"download_url": "https://drive.google.com/uc?id=1e7lDpojYm5z-LczKRlqOhJ1n0y4Cz5Oh",
+		"author": "中村覚",
+		"author_url": "https://researchmap.jp/nakamura.satoru",
+		"dataset": "『日本古典籍くずし字データセット』（国文研ほか所蔵／CODH加工） 提供：人文学オープンデータ共同利用センター",
+		"source_url": "https://doi.org/10.20676/00000340",
+		"resolution": "1024x102",
+		"license": "",
+		"implementation": "https://ml.ldas.jp/ocr/v1/predict?url=",
+		"examples": [
+		]
 	}
 ]
