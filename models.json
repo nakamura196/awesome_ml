@@ -1,0 +1,72 @@
+[
+	{
+		"name": "顔検出",
+		"id": "face",
+		"download_url": "https://drive.google.com/uc?id=1mwINDyd5FDbdmtmnWM-qPuq1UR8C55vO",
+		"author": "中村覚",
+		"author_url": "https://researchmap.jp/nakamura.satoru",
+		"dataset": "顔貌コレクション",
+		"source_url": "https://doi.org/10.20676/00000353",
+		"resolution": "1024x1024",
+		"license": "",
+		"implementation": "",
+		"examples": [
+			{
+				"label": "aaa",
+				"url": "https://researchmap.jp/nakamura.satoru"
+			}
+		]
+	},
+	{
+		"name": "定規の検出",
+		"download_url": "https://drive.google.com/uc?id=1hAbHW1MteRGCHvn3gOqe6ChXMfl7sqOC",
+		"author": "中村覚",
+		"author_url": "https://researchmap.jp/nakamura.satoru",
+		"dataset": "定規コレクション",
+		"source_url": "",
+		"resolution": "1024x1024",
+		"license": "",
+		"implementation": "",
+		"examples": [
+			{
+				"url": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/001_1/0001s.tif/full/full/0/default.jpg",
+				"thumbnail": "https://candra.dhii.jp/iipsrv/iipsrv.fcgi?IIIF=/kakouzou_pub/001_1/0001s.tif/full/600,/0/default.jpg",
+				"attribution": "SAT"
+			},
+			{
+				"url": "https://kotenseki.nijl.ac.jp/api/iiif/100302677/v4/KANS/KANS-00281/KANS-00281-00002.tif/full/full/0/default.jpg",
+				"thumbnail": "https://kotenseki.nijl.ac.jp/api/iiif/100302677/v4/KANS/KANS-00281/KANS-00281-00002.tif/full/600,/0/default.jpg",
+				"attribution": "国文学研究資料館"
+			},
+			{
+				"url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00020027/RB00020027_00001_0.ptif/16512,327,1872,1200/full/0/default.jpg",
+				"type": "iiif",
+				"thumbnail": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00020027/RB00020027_00001_0.ptif/full/600,/0/default.jpg",
+				"attribution": "京都大学",
+				"partial": "1"
+			},
+			{
+				"url": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/1467768/467234.tiff/full/full/0/default.jpg",
+				"thumbnail": "https://catalog.lib.kyushu-u.ac.jp/image/iiif/820/1467768/467234.tiff/full/600,/0/default.jpg",
+				"attribution": "九州大学"
+			},
+			{
+				"url": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/tdata%2Fmibu%2FF09_001-128%2F00000116.tif/full/full/0/default.jpg",
+				"attribution": "東京大学史料編纂所"
+			}
+		]
+	},
+	{
+		"name": "レイアウト検出",
+		"id": "layout",
+		"download_url": "https://drive.google.com/uc?id=1nZS8-7IAEFLPKtq3zVHJ8OoVaQjUX3jj",
+		"author": "中村覚",
+		"author_url": "https://researchmap.jp/nakamura.satoru",
+		"dataset": "NDL-DocLデータセット(資料画像レイアウトデータセット)",
+		"source_url": "https://github.com/ndl-lab/layout-dataset",
+		"resolution": "416x416",
+		"license": "",
+		"implementation": "",
+		"examples": []
+	}
+]
