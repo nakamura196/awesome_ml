@@ -19,6 +19,7 @@
 	},
 	{
 		"name": "定規の検出",
+		"id" : "ruler",
 		"download_url": "https://drive.google.com/uc?id=1hAbHW1MteRGCHvn3gOqe6ChXMfl7sqOC",
 		"author": "中村覚",
 		"author_url": "https://researchmap.jp/nakamura.satoru",
