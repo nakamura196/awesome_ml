@@ -119,6 +119,16 @@
 		"license": "",
 		"implementation": "https://ml.ldas.jp/ocr/v1/predict?url=",
 		"examples": [
+			{
+				"url" : "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/tdata%2Fmibu%2FF09_001-128%2F00000116.tif/full/full/0/default.jpg",
+				"thubmnail" : "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/tdata%2Fmibu%2FF09_001-128%2F00000116.tif/full/600,/0/default.jpg",
+				"attribution": "東京大学史料編纂所"
+			},
+			{
+				"url" : "http://codh.rois.ac.jp/char-shape/iiif/200010454/200010454_00002_2.tif/full/full/0/default.jpg",
+				"thubmnail" : "http://codh.rois.ac.jp/char-shape/iiif/200010454/200010454_00002_2.tif/full/600,/0/default.jpg",
+				"attribution": "日本古典籍データセット（国文研所蔵）CODH配信"
+			}
 		]
 	},{
 		"name": "貼交資料の検出",
