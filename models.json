@@ -132,6 +132,21 @@
 		"license": "",
 		"implementation": "https://ml.ldas.jp/kunshujo/v1/predict?url=",
 		"examples": [
+			{
+				"url": "https://www.dl.ndl.go.jp/api/iiif/2586696/R0000009/full/full/0/default.jpg",
+				"thumbnail": "https://www.dl.ndl.go.jp/api/iiif/2586696/R0000009/full/600,/0/default.jpg",
+				"attribution": "国立国会図書館"
+			},
+			{
+				"url": "https://archive.wul.waseda.ac.jp/kosho/ne01/ne01_00834//ne01_00834_p0005.jpg",
+				"thumbnail": "https://archive.wul.waseda.ac.jp/kosho/ne01/ne01_00834//ne01_00834_p0005.jpg",
+				"attribution": "早稲田大学"
+			},
+			{
+				"url": "https://www.kansai-u.ac.jp/Museum/osaka-toshi/img/documents/kakudai/osaka_kashi.jpg",
+				"thumbnail": "https://www.kansai-u.ac.jp/Museum/osaka-toshi/img/documents/kakudai/osaka_kashi.jpg",
+				"attribution": "関西大学"
+			}
 		]
 	}
 ]
